@@ -1,0 +1,27 @@
+/*!
+* Bootstrap - Bootstrap Vue by @bootstrap - @bootstrap-vue
+*/
+@use 'sass:math';
+
+@import '../../node_modules/bootstrap/scss/functions';
+@import '../../node_modules/bootstrap/scss/variables';
+
+@import '../scss/bootstrap/mixins';
+@import '../scss/bootstrap/components';
+@import '../scss/bootstrap/utilities';
+
+@import '../../node_modules/bootstrap-vue/src/variables';
+@import '../../node_modules/bootstrap-vue/src/utilities';
+@import '../../node_modules/bootstrap-vue/src/custom-controls';
+
+@import '../scss/bootstrap-vue/components';
+
+.bg-white {
+    background-color: $white !important;
+}
+.bg-danger {
+    background-color: $danger !important;
+}
+.bg-transparent {
+    background-color: transparent !important;
+}

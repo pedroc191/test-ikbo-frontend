@@ -1,0 +1,37 @@
+[
+  {
+    "name": "account-forgot-password",
+    "path": "/account/forgot-password",
+    "component": "C:\\\\Users\\\\SharkRock\\\\Documents\\\\Proyectos-2B\\\\test-ikbo-frontend\\\\pages\\\\account\\\\forgot-password.vue",
+    "chunkName": "pages/account/forgot-password",
+    "_name": "_d7625fb2"
+  },
+  {
+    "name": "account-login",
+    "path": "/account/login",
+    "component": "C:\\\\Users\\\\SharkRock\\\\Documents\\\\Proyectos-2B\\\\test-ikbo-frontend\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login",
+    "_name": "_6c573fea"
+  },
+  {
+    "name": "pages-inventory",
+    "path": "/pages/inventory",
+    "component": "C:\\\\Users\\\\SharkRock\\\\Documents\\\\Proyectos-2B\\\\test-ikbo-frontend\\\\pages\\\\pages\\\\inventory.vue",
+    "chunkName": "pages/pages/inventory",
+    "_name": "_6267a6c7"
+  },
+  {
+    "name": "pages-product",
+    "path": "/pages/product",
+    "component": "C:\\\\Users\\\\SharkRock\\\\Documents\\\\Proyectos-2B\\\\test-ikbo-frontend\\\\pages\\\\pages\\\\product.vue",
+    "chunkName": "pages/pages/product",
+    "_name": "_3025719a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\SharkRock\\\\Documents\\\\Proyectos-2B\\\\test-ikbo-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0143e633"
+  }
+]

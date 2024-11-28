@@ -1,0 +1,38 @@
+{
+  "AccountProfileImage": {
+    "description": "Auto imported from components/account/profile-image.vue"
+  },
+  "FooterDefault": {
+    "description": "Auto imported from components/footer/footer-default.vue"
+  },
+  "NavbarDefault": {
+    "description": "Auto imported from components/navbar/navbar-default.vue"
+  },
+  "NavbarItem": {
+    "description": "Auto imported from components/navbar/navbar-item.vue"
+  },
+  "HeaderDefault": {
+    "description": "Auto imported from components/header/header-default.vue"
+  },
+  "HeaderSidebar": {
+    "description": "Auto imported from components/header/sidebar.vue"
+  },
+  "PagesBreadcrumbs": {
+    "description": "Auto imported from components/pages/breadcrumbs.vue"
+  },
+  "PagesFormField": {
+    "description": "Auto imported from components/pages/form-field.vue"
+  },
+  "PagesFormPassword": {
+    "description": "Auto imported from components/pages/form-password.vue"
+  },
+  "PagesLoading": {
+    "description": "Auto imported from components/pages/loading.vue"
+  },
+  "PagesNotification": {
+    "description": "Auto imported from components/pages/notification.vue"
+  },
+  "TopbarDefault": {
+    "description": "Auto imported from components/topbar/topbar-default.vue"
+  }
+}

@@ -1,0 +1,75 @@
+/*!
+* Font Awesome Free 6.2.1 by @fontawesome
+*/
+
+@font-face {
+    font-family: 'Font Awesome 6 Free';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("../../assets/fonts/font-awesome/fa-regular-400.woff2") format("woff2"), url("../../assets/fonts/font-awesome/fa-regular-400.ttf") format("truetype"); 
+}
+@font-face {
+    font-family: 'Font Awesome 6 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-display: block;
+    src: url("../../assets/fonts/font-awesome/fa-solid-900.woff2") format("woff2"), url("../../assets/fonts/font-awesome/fa-solid-900.ttf") format("truetype"); 
+}
+@font-face {
+    font-family: 'Font Awesome 6 Brands';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("../../assets/fonts/font-awesome/fa-brands-400.woff2") format("woff2"), url("../../assets/fonts/font-awesome/fa-brands-400.ttf") format("truetype"); 
+}
+:root, :host {
+    --fa-style-family-brands: 'Font Awesome 6 Brands';
+    --fa-style-family-classic: 'Font Awesome 6 Free';
+    --fa-font-brands: normal 400 1em/1 'Font Awesome 6 Brands'; 
+    --fa-font-regular: normal 400 1em/1 'Font Awesome 6 Free'; 
+    --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Free'; 
+}
+
+.fa {
+    font-family: var(--fa-style-family, "Font Awesome 6 Free");
+    font-weight: var(--fa-style, 900); 
+}
+
+.fab,
+.fa-brands {
+    font-family: 'Font Awesome 6 Brands'; 
+    font-weight: 400; 
+}
+.fas,
+.fa-classic,
+.fa-solid,
+.far,
+.fa-regular {
+    font-family: 'Font Awesome 6 Free'; 
+}
+.far,
+.fa-regular {
+    font-weight: 400; 
+}
+.fas,
+.fa-solid {
+    font-weight: 900; 
+}
+.fa,
+.fa-classic,
+.fa-sharp,
+.fas,
+.fa-solid,
+.far,
+.fa-regular,
+.fab,
+.fa-brands {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: var(--fa-display, inline-block);
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-rendering: auto; 
+}

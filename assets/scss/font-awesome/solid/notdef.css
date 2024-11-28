@@ -1,0 +1,1 @@
+.fas.fa-notdef::before, .fa-solid.fa-notdef::before { content: "\e1fe"; }

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3,2],{260:function(e){e.exports=JSON.parse('[{"name":"Products","url":"/pages/product","icon":null,"custom_class":"","show":true,"new_page":true,"mega_menu":false,"childrens":[]},{"name":"Inventory","url":"/pages/inventory","icon":null,"custom_class":"","show":true,"new_page":true,"mega_menu":false,"childrens":[]}]')}}]);
+//# sourceMappingURL=9ac688d.js.map
