@@ -1,4 +1,4 @@
-# Proyecto Frontend con Vue 2 y Nuxt
+# Proyecto Frontend con Vue 2 y Nuxt - test-ikbo-fronend
 
 Este proyecto es una aplicación frontend desarrollada utilizando Vue 2 y Nuxt, con Node.js como entorno de ejecución. 
 
